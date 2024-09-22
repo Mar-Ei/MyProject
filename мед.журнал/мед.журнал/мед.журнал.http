@@ -1,0 +1,6 @@
+@мед.журнал_HostAddress = http://localhost:5234
+
+GET {{мед.журнал_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
